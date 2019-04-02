@@ -37,7 +37,7 @@ int main (int argc, char *argv[])
    char                  *local_prime;          /* local_primes */
    unsigned long long    first2;     /* */
    
-   unsigned long long    size3;     /* cache */
+   unsigned long long    size3;     /* cache size */
    unsigned long long    end_block;     /*index of last   */
     
 
